@@ -1,0 +1,31 @@
+{
+  "store": "WizardFit",
+  "tier": "Semi-fast: premium supplements, repeat purchase",
+  "products": [
+    {
+      "name": "Creatine Monohydrate",
+      "desc": "Supports strength and muscle recovery. 5g per serving, unflavored.",
+      "price_planning": "$39"
+    },
+    {
+      "name": "Whey Isolate Protein",
+      "desc": "Lean protein, low lactose. Supports muscle recovery after training.",
+      "price_planning": "$59"
+    },
+    {
+      "name": "BCAA with Flavor",
+      "desc": "Intra-workout amino acids. Neon Dragon Fruit flavor.",
+      "price_planning": "$45"
+    },
+    {
+      "name": "Ashwagandha",
+      "desc": "Supports stress and sleep. Consult your doctor if you take medication.",
+      "price_planning": "$35"
+    },
+    {
+      "name": "Magnesium Glycinate (form TBD)",
+      "desc": "Supports sleep and calm recovery. Final form to be confirmed.",
+      "price_planning": "$29"
+    }
+  ]
+}
